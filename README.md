@@ -13,7 +13,7 @@ composer update
 php artisan key:generate
 composer require brackets/craftable
 composer require --dev brackets/admin-generator
-
+npm install && npm run dev
 
 Ci--4pN--3SU4o
 administrator@brackets.sk
